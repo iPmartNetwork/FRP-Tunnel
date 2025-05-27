@@ -26,7 +26,7 @@ A minimal, interactive, and production-ready FRP tunnel installer for easy secur
 On **both the outside (server) and inside (client) nodes**, simply run:
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/iPmartNetwork/FRP-Tunnel/main/frp-tunnel.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/iPmartNetwork/FRP-Tunnel/master/frp-tunnel.sh)
 ```
 
 > Make sure you have `curl` installed.  
